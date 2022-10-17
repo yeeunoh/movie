@@ -1,0 +1,16 @@
+h3 {
+  color:red;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  background-color:yellow;
+  border-bottom-style: dotted;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+}
+a {
+  text-align: center;
+}
